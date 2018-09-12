@@ -1,0 +1,10 @@
+{
+  "name": "bymeds-parse-backend-v0.0.1",
+  "description": "parse-server for ByMeds Parse Backend v0.0.1",
+  "scripts": {
+    "start": "parse-server config.json"
+  },
+  "dependencies": {
+    "parse-server": "^2.0.0"
+  }
+}

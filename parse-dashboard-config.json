@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "serverURL": "http://localhost:1337/parse",
+      "appId": "4CnrH4eKPfRFnkCq0AEqUd2DbA4f1ENxJ8HzsRIf",
+      "masterKey": "mvwoBSTRe7GNYcsqI0Tl5mdj6oe4TLtUDY82omzD",
+      "appName": "ByMeds Parse Dashboard"
+    }
+  ]
+}

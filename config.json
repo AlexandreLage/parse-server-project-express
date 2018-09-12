@@ -1,0 +1,7 @@
+{
+  "appId": "4CnrH4eKPfRFnkCq0AEqUd2DbA4f1ENxJ8HzsRIf",
+  "masterKey": "mvwoBSTRe7GNYcsqI0Tl5mdj6oe4TLtUDY82omzD",
+  "appName": "ByMeds Parse Backend v0.0.1",
+  "cloud": "./cloud/main",
+  "databaseURI": "mongodb://127.0.0.1:27017/parse"
+}

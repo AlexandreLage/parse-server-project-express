@@ -1,0 +1,7 @@
+{
+  "appId": "W7H8ebmVujoc6srUaKX6AZeLAOE9Y89rWayaZuHv",
+  "masterKey": "P8Mic0M77pwPU1vMoj2RTjDCT5YaEfEAFTj5gMcz",
+  "appName": "BM",
+  "cloud": "./cloud/main",
+  "databaseURI": "mongodb://127.0.0.1:27017/parse"
+}
